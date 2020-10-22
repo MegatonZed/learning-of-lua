@@ -1,3 +1,5 @@
+# Lua学习笔记
+~~内含私货，暴论~~
 # 环境配置
 ```
 Archlinux
@@ -21,7 +23,7 @@ fuck python
 stdin:1: unexpected symbol near '='
 > int a=2
 stdin:1: syntax error near 'a'
-> 
+>
 ```
 ~~随便试了一下语法比起python更为严谨？~~
 
@@ -132,13 +134,13 @@ stdin:1: syntax error near 'a'
         ```
         * 结果
         ```
-        [zed@coldwalker Lua]$ ./t000.lua 
+        [zed@coldwalker Lua]$ ./t000.lua
         4
         5
         3
         nil
         grape
-[zed@coldwalker Lua]$ 
+        [zed@coldwalker Lua]$
         ```
 
 * function
